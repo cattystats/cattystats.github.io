@@ -14,10 +14,10 @@ color:
 footer: Your Website
 
 # "UA-NNNNNNNN-N"
-google_analytics:
+google_analytics: UA-131311056-1
 
 # resume pdf public link in google drive
-google-drive-resume-file-id: 1qXzVxnPXS0bZL67kyx9YaPBJt7M6PR5v
+google-drive-resume-file-id: 0B_3Ub9W56lJwdV9oYkxkUVRBM1R1RkpsaERHMW5JZlJUTWFJ
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
