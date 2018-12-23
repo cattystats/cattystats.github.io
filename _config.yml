@@ -1,0 +1,50 @@
+# Site settings
+title: Catherine Zhou
+email: mail@catherinezhou.com
+url: https://www.catherinezhou.com
+description: "R enthusiast and Data Scientist @Codecademy"
+repository: cattystats/cattystats.github.io
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#091109'
+  links: '#d8ecd7'
+
+# Footer settings
+footer: Your Website
+
+# "UA-NNNNNNNN-N"
+google_analytics:
+
+# resume pdf public link in google drive
+google-drive-resume-file-id: 1qXzVxnPXS0bZL67kyx9YaPBJt7M6PR5v
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/catherinezh
+  - title: instagram
+    url: https://www.instagram.com/cathzeta/
+  - title: linkedin
+    url: https://www.linkedin.com/in/zhoucatherine/
+  - title: github
+    url: https://github.com/cattystats
+
+talks:
+  - title: Anomaly Detection With Time Series???
+    venue-publication: Big Data Spain
+    url: https://www.youtube.com/watch?v=4DJJNQTvVbs
+  - title: Anomaly Detection With Time Series
+    venue-publication: DC R Conference 2018
+    url: https://github.com/cattystats/Anomaly_Detection
+  - title: Hiring Data Scientists 
+    venue-publication: New York rLadies
+    url: https://www.meetup.com/rladies-newyork/?_cookie-check=ib69KpxlisKjf7id
+  - title: "R Makes the World Go ‘Round: Data Driven Decision Making at JetBlue"
+    venue-publication: New York R Conference 2017
+    url: https://www.youtube.com/watch?v=5BnCMS109Ig
+  
+
+# Build settings
+markdown: kramdown
+permalink: pretty
