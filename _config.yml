@@ -31,8 +31,8 @@ social:
     url: https://github.com/cattystats
 
 talks:
-  - title: Anomaly Detection With Time Series???
-    venue-publication: Big Data Spain
+  - title: Building A Data Science Team From Scratch
+    venue-publication: Big Data Spain 2018
     url: https://www.youtube.com/watch?v=4DJJNQTvVbs
   - title: Anomaly Detection With Time Series
     venue-publication: DC R Conference 2018
