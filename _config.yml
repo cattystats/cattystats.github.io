@@ -19,18 +19,18 @@ google_analytics: UA-131311056-1
 # resume pdf public link in google drive
 google-drive-resume-file-id: 0B_3Ub9W56lJwdV9oYkxkUVRBM1R1RkpsaERHMW5JZlJUTWFJ
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
+# Social networks usernames
+Social:
+  - title: github
+    url: https://github.com/cattystats
   - title: twitter
     url: https://twitter.com/catherinezh
   - title: linkedin
     url: https://www.linkedin.com/in/zhoucatherine/
-  - title: github
-    url: https://github.com/cattystats
   - title: instagram
     url: https://www.instagram.com/cathzeta/
 
-talks:
+Talks:
   - title: Building A Data Science Team From Scratch
     venue-publication: Big Data Spain 2018
     url: https://www.youtube.com/watch?v=4DJJNQTvVbs
