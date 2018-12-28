@@ -2,7 +2,7 @@ Personal-Website
 =========================
 My Personal Website
 
-Can find it at www.catherinezhou.com
+Can find it at www.catherinezhou.com or www.catzhou.com
 
 Powered by Jekyll
 
