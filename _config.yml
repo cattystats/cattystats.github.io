@@ -20,7 +20,7 @@ google_analytics: UA-131311056-1
 google-drive-resume-file-id: 0B_3Ub9W56lJwdV9oYkxkUVRBM1R1RkpsaERHMW5JZlJUTWFJ
 
 # Social networks usernames
-Social:
+social:
   - title: github
     url: https://github.com/cattystats
   - title: twitter
@@ -30,7 +30,7 @@ Social:
   - title: instagram
     url: https://www.instagram.com/cathzeta/
 
-Talks:
+talks:
   - title: Building A Data Science Team From Scratch
     venue-publication: Big Data Spain 2018
     url: https://www.youtube.com/watch?v=4DJJNQTvVbs
