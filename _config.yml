@@ -31,6 +31,9 @@ social:
     url: https://www.instagram.com/cathzeta/
 
 talks:
+  - title: "Time Series, Two Ways: Anomaly Detection & Forecasting"
+    venue-publication: New York Open Statistical Programming Meetup Feb 2019
+    url: https://github.com/cattystats/conference-talks/blob/master/nyhackr-2019/2019-NYR-Time-Series.pdf
   - title: Building A Data Science Team From Scratch
     venue-publication: Big Data Spain 2018
     url: https://www.youtube.com/watch?v=4DJJNQTvVbs
@@ -38,7 +41,7 @@ talks:
     venue-publication: DC R Conference 2018
     url: https://github.com/cattystats/Anomaly_Detection
   - title: "Cracking The Data Science Interview: Learnings From Both Sides Of The Interview Table"
-    venue-publication: New York rLadies
+    venue-publication: New York rLadies 2018
     url: https://www.meetup.com/rladies-newyork/?_cookie-check=ib69KpxlisKjf7id
   - title: "R Makes the World Go ‘Round: Data Driven Decision Making at JetBlue"
     venue-publication: New York R Conference 2017
