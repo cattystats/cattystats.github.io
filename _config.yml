@@ -17,7 +17,7 @@ footer: Your Website
 google_analytics: UA-131311056-1
 
 # resume pdf public link in google drive
-google-drive-resume-file-id: 0B_3Ub9W56lJwdV9oYkxkUVRBM1R1RkpsaERHMW5JZlJUTWFJ
+google-drive-resume-file-id: 165MY_vtHzlNmjImOMK1O2mGj797Y8Abu
 
 # Social networks usernames
 social:
@@ -32,7 +32,7 @@ social:
 
 talks:
   - title: "Time Series, Two Ways: Anomaly Detection & Forecasting"
-    venue-publication: New York Open Statistical Programming Meetup Feb 2019
+    venue-publication: New York Open Statistical Programming Meetup 2019
     url: https://github.com/cattystats/conference-talks/blob/master/nyhackr-2019/2019-NYR-Time-Series.pdf
   - title: Building A Data Science Team From Scratch
     venue-publication: Big Data Spain 2018
