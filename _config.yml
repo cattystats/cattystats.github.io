@@ -2,7 +2,7 @@
 title: Catherine Zhou
 email: mail@catherinezhou.com
 url: https://www.catherinezhou.com
-description: "R enthusiast and Data Scientist @Codecademy"
+description: "R enthusiast and Data Science Manager @Twitter"
 repository: cattystats/cattystats.github.io
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -27,10 +27,17 @@ social:
     url: https://twitter.com/catherinezh
   - title: linkedin
     url: https://www.linkedin.com/in/zhoucatherine/
-  - title: instagram
-    url: https://www.instagram.com/cathzeta/
 
 talks:
+  - title: "The Data Science of Learning"
+    venue-publication: Towards Data Science Podcast 2020
+    url: https://towardsdatascience.com/the-data-science-of-learning-e8a5a960f746 
+  - title: "Why NYR? Finding You(R) Community"
+    venue-publication: New York R Conference 2020 (same-day virtual impromptu talk)
+    url: https://youtu.be/Fy9tMfjs9F8
+  - title: "What Does a Data Scientist Do?"
+    venue-publication: Codecademy News 2020
+    url: https://news.codecademy.com/what-does-a-data-scientist-do/    
   - title: "Time Series, Two Ways: Anomaly Detection & Forecasting"
     venue-publication: New York Open Statistical Programming Meetup 2019
     url: https://youtu.be/n9GOvto69aQ
