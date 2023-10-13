@@ -17,7 +17,7 @@ footer: Your Website
 google_analytics: UA-131311056-1
 
 # resume pdf public link in google drive
-google-drive-resume-file-id: 14tgGi85z1oxJJBBvLNhCNJV4oSzAvNc2
+google-drive-resume-file-id: 1MisqTTR58mnMXwELqI5pjZKG4ibP54M-
 
 # Social networks usernames
 social:
@@ -29,6 +29,12 @@ social:
     url: https://www.linkedin.com/in/zhoucatherine/
 
 talks:
+  - title: "Building Causal Measurement"
+    venue-publication: Crunch Conference Budapest 2022
+    url: https://youtu.be/onuBAYLGrVI?si=-cTpKmOHA1XGBnzm 
+  - title: "Causal, Not Casual"
+    venue-publication: New York R Conference 2022
+    url: https://youtu.be/mJb74u6Svio?si=3KQxwDuax2qzsBUX
   - title: "The Data Science of Learning"
     venue-publication: Towards Data Science Podcast 2020
     url: https://towardsdatascience.com/the-data-science-of-learning-e8a5a960f746 
